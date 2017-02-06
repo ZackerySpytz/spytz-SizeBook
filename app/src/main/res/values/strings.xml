@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">spytz-SizeBook</string>
+    <string name="app_header">All Records</string>
+    <string name="main_activity_hint">Create a new Record</string>
+    <string name="button_send">Send</string>
+    <string name="button_add_record">Add Record</string>
+    <string name="name">Name</string>
+    <string name="recordDate">Date</string>
+    <string name="neck">Neck size</string>
+    <string name="bust">Bust size</string>
+    <string name="chest">Chest size</string>
+    <string name="waist">Waist size</string>
+    <string name="hip">Hip size</string>
+    <string name="inseam">Inseam size</string>
+    <string name="comment">Comment</string>
+    <string name="button_finish_adding_record">Finish adding Record</string>
+    <string name="button_view_record">View this Record</string>
+    <string name="button_edit_record">Edit this Record</string>
+    <string name="button_delete_record">Delete this Record</string>
+    <string name="title_activity_view_record">ViewRecordActivity</string>
+    <string name="button_finish_viewing_record">Finish viewing Record</string>
+    <string name="button_finish_editing_record">Finish editing Record</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
