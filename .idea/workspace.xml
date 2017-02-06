@@ -12,112 +12,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b938b5b-8222-4008-bf4b-e8ffb14f31ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_android_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/design_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jsr305_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/transition_25_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spytz-SizeBook.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/allclasses-frame.html" afterPath="$PROJECT_DIR$/JavaDoc/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/allclasses-noframe.html" afterPath="$PROJECT_DIR$/JavaDoc/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/BuildConfig.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/BuildConfig.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/CreateRecordActivity.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/CreateRecordActivity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/EditRecordActivity.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/EditRecordActivity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/ExampleInstrumentedTest.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/ExampleInstrumentedTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/ExampleUnitTest.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/ExampleUnitTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/MainActivity.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/MainActivity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/PersonRecord.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/PersonRecord.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.anim.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.anim.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.animator.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.animator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.attr.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.attr.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.bool.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.bool.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.color.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.color.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.dimen.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.dimen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.drawable.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.drawable.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.id.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.id.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.integer.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.integer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.layout.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.mipmap.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.mipmap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.string.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.string.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.style.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.style.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.styleable.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/R.styleable.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/SelectExistingRecordActivity.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/SelectExistingRecordActivity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/Singleton.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/Singleton.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/ViewRecordActivity.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/ViewRecordActivity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/package-frame.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/package-summary.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/package-tree.html" afterPath="$PROJECT_DIR$/JavaDoc/com/example/spytz_sizebook/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/constant-values.html" afterPath="$PROJECT_DIR$/JavaDoc/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/deprecated-list.html" afterPath="$PROJECT_DIR$/JavaDoc/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/help-doc.html" afterPath="$PROJECT_DIR$/JavaDoc/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-1.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-10.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-11.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-12.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-13.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-13.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-14.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-14.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-15.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-15.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-16.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-16.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-17.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-17.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-18.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-18.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-19.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-19.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-2.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-20.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-20.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-21.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-21.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-22.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-22.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-3.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-4.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-5.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-6.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-7.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-8.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index-files/index-9.html" afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/index.html" afterPath="$PROJECT_DIR$/JavaDoc/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaDoc/overview-tree.html" afterPath="$PROJECT_DIR$/JavaDoc/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/Singleton.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/Singleton.java" />
-    </list>
+    <list default="true" id="1b938b5b-8222-4008-bf4b-e8ffb14f31ef" name="Default" comment="" />
     <ignored path="spytz-SizeBook.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -166,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateRecordActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CreateRecordActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/CreateRecordActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="48" column="22" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="22" />
+            <state relative-caret-position="65">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -237,7 +132,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1040">
+            <state relative-caret-position="-86">
               <caret line="122" column="30" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
               <folding>
                 <element signature="e#1858#1872#0" expanded="true" />
@@ -246,7 +141,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -2895,14 +2790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/CreateRecordActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="48" column="22" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/os/Looper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -2973,14 +2860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/ViewRecordActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_record.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3012,9 +2891,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/ViewRecordActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1040">
+        <state relative-caret-position="-86">
           <caret line="122" column="30" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
           <folding>
             <element signature="e#1858#1872#0" expanded="true" />
@@ -3022,10 +2917,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spytz_sizebook/CreateRecordActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="65">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="33" />
           <folding />
         </state>
       </provider>
