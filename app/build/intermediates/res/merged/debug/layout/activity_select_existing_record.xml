@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_select_existing_record"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.spytz_sizebook.SelectExistingRecordActivity">
+    <Button
+        android:id="@+id/button_view_record"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_view_record"
+        android:onClick="viewExistingRecord" />
+    <Button
+        android:id="@+id/button_edit_record"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_edit_record"
+        android:onClick="editExistingRecord" />
+    <Button
+        android:id="@+id/button_delete_record"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_delete_record"
+        android:onClick="deleteExistingRecord" />
+    <Button
+        android:id="@+id/button_cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_cancel"
+        android:onClick="cancelSelectExistingRecord" />
+</LinearLayout>

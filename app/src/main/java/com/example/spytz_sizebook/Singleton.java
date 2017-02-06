@@ -16,7 +16,6 @@ import java.util.Iterator;
  * Created by spytz on 2017-02-03.
  */
 public class Singleton {
-    private int uniqueID = 1;
     private static Singleton ourInstance = new Singleton();
     private ArrayList<PersonRecord> personRecords;
 
@@ -41,12 +40,6 @@ public class Singleton {
 
     public void setRecords(ArrayList<PersonRecord> records) {
         personRecords = records;
-    }
-
-    public int getUniqueID() {
-        int newID = uniqueID;
-        uniqueID++;
-        return newID;
     }
 
     public boolean deleteRecord(String name) {

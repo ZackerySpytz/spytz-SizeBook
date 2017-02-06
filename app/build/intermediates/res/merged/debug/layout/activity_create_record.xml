@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- the android:inputType="number|numberDecimal" tag used to limit numerical
+     input was found at:
+     http://stackoverflow.com/questions/6083960/android-limit-only-one-decimal-point-enter-into-a-edittext
+     2017-02-05 17:00 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:id="@+id/main_activity_hint"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/main_activity_hint" />
+
+    <EditText android:id="@+id/add_name"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/name" />
+    <EditText android:id="@+id/add_recordDate"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/recordDate" />
+    <EditText android:id="@+id/add_neck"
+        android:inputType="number|numberDecimal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/neck" />
+    <EditText android:id="@+id/add_bust"
+        android:inputType="number|numberDecimal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/bust" />
+    <EditText android:id="@+id/add_chest"
+        android:inputType="number|numberDecimal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/chest" />
+    <EditText android:id="@+id/add_waist"
+        android:inputType="number|numberDecimal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/waist" />
+    <EditText android:id="@+id/add_hip"
+        android:inputType="number|numberDecimal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hip" />
+    <EditText android:id="@+id/add_inseam"
+        android:inputType="number|numberDecimal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/inseam" />
+    <EditText android:id="@+id/add_comment"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/comment" />
+    <Button
+        android:id="@+id/button_finish_adding_record"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_finish_adding_record"
+        android:onClick="finishAddingRecord" />
+
+</LinearLayout>

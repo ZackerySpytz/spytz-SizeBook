@@ -1,0 +1,7 @@
+#Mon Feb 06 12:14:52 MST 2017
+base.0=C\:\\Users\\Study\\AndroidStudioProjects\\spytz-SizeBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dad1251ac1d9d1d03d5c41a2ff38dddb61fc40d5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Study\\AndroidStudioProjects\\spytz-SizeBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e88f2ce4ffdbc5796a4a87b116c9faa5564a52cb\\classes.dex
+base.1=C\:\\Users\\Study\\AndroidStudioProjects\\spytz-SizeBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e88f2ce4ffdbc5796a4a87b116c9faa5564a52cb
+file.0=C\:\\Users\\Study\\AndroidStudioProjects\\spytz-SizeBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dad1251ac1d9d1d03d5c41a2ff38dddb61fc40d5\\classes.dex
